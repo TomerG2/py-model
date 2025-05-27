@@ -2,6 +2,4 @@ fastapi
 uvicorn
 jinja2
 pillow
-torch
-torchvision
 python-multipart
